@@ -2,7 +2,7 @@
   "name": "bubbles",
   "version": "1.0.0",
   "description": "hover bubbles text",
-  "main": "index.html",
+  "main": "main.js",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
